@@ -1,0 +1,5 @@
+{
+  "name": "IronTrack AI APP",
+  "description": "A smart workout tracker that manages exercises, routines, and workout splits. Features progressive overload tracking and an AI coach for advice.",
+  "requestFramePermissions": []
+}
